@@ -20,7 +20,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.PFC" >
         <activity
-            android:name="com.example.pfc.PageConnexion"
+            android:name="com.example.pfc.PageInscription"
             android:exported="true" />
         <activity
             android:name="com.example.pfc.MainActivity"
@@ -31,6 +31,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.pfc.PageConnexion"
+            android:exported="true" />
     </application>
 
 </manifest>

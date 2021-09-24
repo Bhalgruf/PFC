@@ -1,5 +1,9 @@
 com/example/pfc/PageConnexion.java
  com.example.pfc.PageConnexion
+com/example/pfc/Menu.java
+ com.example.pfc.Menu
+com/example/pfc/PageInscription.java
+ com.example.pfc.PageInscription
 com/example/pfc/MainActivity.java
  com.example.pfc.MainActivity
 com/example/pfc/BuildConfig.java
