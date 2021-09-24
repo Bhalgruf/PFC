@@ -1,0 +1,6 @@
+com/example/pfc/PageConnexion.java
+ com.example.pfc.PageConnexion
+com/example/pfc/MainActivity.java
+ com.example.pfc.MainActivity
+com/example/pfc/BuildConfig.java
+ com.example.pfc.BuildConfig
